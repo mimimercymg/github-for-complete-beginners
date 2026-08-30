@@ -82,6 +82,8 @@ Return to the repository file list.
 
 You should now see:
 
+The web interface allows these actions to be completed directly in a browser.
+
 `getting-started.md`
 
 Select the file to open it.
