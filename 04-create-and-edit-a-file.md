@@ -87,3 +87,5 @@ You should now see:
 Select the file to open it.
 
 The file is now part of your repository.
+
+This guide uses the GitHub website instead of the command line.
